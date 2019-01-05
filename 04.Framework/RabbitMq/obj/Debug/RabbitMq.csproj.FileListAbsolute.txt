@@ -1,0 +1,13 @@
+E:\touch\04.Framework\RabbitMq\bin\Debug\RabbitMq.dll
+E:\touch\04.Framework\RabbitMq\bin\Debug\RabbitMq.pdb
+E:\touch\04.Framework\RabbitMq\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\touch\04.Framework\RabbitMq\bin\Debug\Newtonsoft.Json.dll
+E:\touch\04.Framework\RabbitMq\bin\Debug\RabbitMQ.Client.dll
+E:\touch\04.Framework\RabbitMq\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\touch\04.Framework\RabbitMq\bin\Debug\Newtonsoft.Json.pdb
+E:\touch\04.Framework\RabbitMq\bin\Debug\Newtonsoft.Json.xml
+E:\touch\04.Framework\RabbitMq\bin\Debug\RabbitMQ.Client.xml
+E:\touch\04.Framework\RabbitMq\obj\Debug\RabbitMq.csproj.CoreCompileInputs.cache
+E:\touch\04.Framework\RabbitMq\obj\Debug\RabbitMq.csproj.CopyComplete
+E:\touch\04.Framework\RabbitMq\obj\Debug\RabbitMq.dll
+E:\touch\04.Framework\RabbitMq\obj\Debug\RabbitMq.pdb

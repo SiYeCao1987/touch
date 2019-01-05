@@ -1,0 +1,5 @@
+E:\touch\03.BuniessService\Common\Base.Service\bin\Debug\Base.Service.dll
+E:\touch\03.BuniessService\Common\Base.Service\bin\Debug\Base.Service.pdb
+E:\touch\03.BuniessService\Common\Base.Service\obj\Debug\Base.Service.csproj.CoreCompileInputs.cache
+E:\touch\03.BuniessService\Common\Base.Service\obj\Debug\Base.Service.dll
+E:\touch\03.BuniessService\Common\Base.Service\obj\Debug\Base.Service.pdb

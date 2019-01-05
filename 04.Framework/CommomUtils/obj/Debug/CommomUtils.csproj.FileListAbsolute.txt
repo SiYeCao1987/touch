@@ -1,0 +1,9 @@
+E:\touch\04.Framework\CommomUtils\bin\Debug\CommomUtils.dll
+E:\touch\04.Framework\CommomUtils\bin\Debug\CommomUtils.pdb
+E:\touch\04.Framework\CommomUtils\bin\Debug\Newtonsoft.Json.dll
+E:\touch\04.Framework\CommomUtils\bin\Debug\Newtonsoft.Json.pdb
+E:\touch\04.Framework\CommomUtils\bin\Debug\Newtonsoft.Json.xml
+E:\touch\04.Framework\CommomUtils\obj\Debug\CommomUtils.csproj.CoreCompileInputs.cache
+E:\touch\04.Framework\CommomUtils\obj\Debug\CommomUtils.csproj.CopyComplete
+E:\touch\04.Framework\CommomUtils\obj\Debug\CommomUtils.dll
+E:\touch\04.Framework\CommomUtils\obj\Debug\CommomUtils.pdb

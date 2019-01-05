@@ -1,0 +1,5 @@
+E:\touch\02.CommonModule\TaskSchedule\bin\Debug\TaskSchedule.dll
+E:\touch\02.CommonModule\TaskSchedule\bin\Debug\TaskSchedule.pdb
+E:\touch\02.CommonModule\TaskSchedule\obj\Debug\TaskSchedule.csproj.CoreCompileInputs.cache
+E:\touch\02.CommonModule\TaskSchedule\obj\Debug\TaskSchedule.dll
+E:\touch\02.CommonModule\TaskSchedule\obj\Debug\TaskSchedule.pdb

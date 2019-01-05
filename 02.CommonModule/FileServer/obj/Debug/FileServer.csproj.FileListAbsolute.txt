@@ -1,0 +1,5 @@
+E:\touch\02.CommonModule\FileServer\bin\Debug\FileServer.dll
+E:\touch\02.CommonModule\FileServer\bin\Debug\FileServer.pdb
+E:\touch\02.CommonModule\FileServer\obj\Debug\FileServer.csproj.CoreCompileInputs.cache
+E:\touch\02.CommonModule\FileServer\obj\Debug\FileServer.dll
+E:\touch\02.CommonModule\FileServer\obj\Debug\FileServer.pdb
