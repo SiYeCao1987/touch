@@ -11,3 +11,6 @@ E:\touch\04.Framework\RabbitMq\obj\Debug\RabbitMq.csproj.CoreCompileInputs.cache
 E:\touch\04.Framework\RabbitMq\obj\Debug\RabbitMq.csproj.CopyComplete
 E:\touch\04.Framework\RabbitMq\obj\Debug\RabbitMq.dll
 E:\touch\04.Framework\RabbitMq\obj\Debug\RabbitMq.pdb
+E:\touch\04.Framework\RabbitMq\obj\Debug\RabbitMq.csprojAssemblyReference.cache
+E:\touch\04.Framework\RabbitMq\bin\Debug\CommomUtils.dll
+E:\touch\04.Framework\RabbitMq\bin\Debug\CommomUtils.pdb

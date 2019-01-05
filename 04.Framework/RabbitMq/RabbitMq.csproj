@@ -50,11 +50,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Dto\MQRespone.cs" />
+    <Compile Include="Model\ExchangeTypeEnum.cs" />
+    <Compile Include="Model\RabbitMqConfig.cs" />
+    <Compile Include="Model\ResponeStatusEnum.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Service\RPCBuniessService.cs" />
+    <Compile Include="Service\RPCClientService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CommomUtils\CommomUtils.csproj">
+      <Project>{245e7aec-6965-4e69-967d-3a00b3393199}</Project>
+      <Name>CommomUtils</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
